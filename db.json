@@ -1,0 +1,244 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 0,
+      "username": "Duong",
+      "password": "123",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699622450/duong_ntrorq.png",
+      "favoriteSongs": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": 1,
+      "username": "Tung",
+      "password": "456",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699622313/tung_vriyd5.jpg",
+      "favoriteSongs": [
+        1,
+        3,
+        8,
+        9
+      ]
+    },
+    {
+      "username": "Chanh",
+      "password": "123",
+      "img": "",
+      "favoriteSongs": [],
+      "id": 2
+    }
+  ],
+  "song": [
+    {
+      "id": 0,
+      "title": "Gương mặt lạ lẫm",
+      "artist": "Mr. Siro",
+      "categoryID": 0,
+      "duration": "05:34",
+      "currentTime": "07:43:02 27/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699679015/img1_d3ut9c.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699675905/GuongMatLaLam-MrSiro-4583437_fsbiit.mp3"
+    },
+    {
+      "id": 1,
+      "title": "Hết Thương Cạn Nhớ",
+      "artist": "Đức Phúc",
+      "categoryID": 0,
+      "duration": "05:52",
+      "currentTime": "14:40:55 26/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699678078/img2_h9u3vf.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699677597/H%E1%BA%BET_TH%C6%AF%C6%A0NG_C%E1%BA%A0N_NH%E1%BB%9A_-_%C4%90%E1%BB%A8C_PH%C3%9AC_ibera5.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Còn Gì Đau Hơn Chữ Đã Từng",
+      "artist": "Quân A.P",
+      "categoryID": 1,
+      "duration": "05:09",
+      "currentTime": "18:00:38 24/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699678004/img3_awda1a.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699683694/9adrc3ae4y_uuyeff.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Là Bạn Không Thể Yêu",
+      "artist": "Lou Hoàng",
+      "categoryID": 1,
+      "duration": "04:43  ",
+      "currentTime": "14:38:00 26/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699678004/img4_n0aqth.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699678142/LaBanKhongTheYeu-LouHoang-6104199_u8cyo7.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Bước Qua Đời Nhau",
+      "artist": "Lê Bảo Bình",
+      "categoryID": 2,
+      "duration": "04:52",
+      "currentTime": "18:28:33 24/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699678004/img5_kyzbcb.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699678148/BuocQuaDoiNhauTNBHRemix-LeBaoBinh-6060704_wujjof.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Lời Yêu Ngây Dại",
+      "artist": "Kha",
+      "categoryID": 2,
+      "duration": "04:57",
+      "currentTime": "14:40:28 26/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699678005/img6_x5rqbl.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699678142/LaBanKhongTheYeu-LouHoang-6104199_u8cyo7.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Cắt Đôi Nỗi Sầu",
+      "artist": "Tăng Duy Tân",
+      "categoryID": 3,
+      "duration": "03:02",
+      "currentTime": "07:44:55 27/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954500/song1_guln6c.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954682/cat-doi-noi-sau-tang-duy-tan_omcjuz.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Ngày Mai Người Ta Lấy Chồng",
+      "artist": "Thành Đạt",
+      "categoryID": 3,
+      "duration": "06:02",
+      "currentTime": "14:29:26 26/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954494/song4_qffnu4.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954589/NgayMaiNguoiTaLayChong-ThanhDat-9466823_ydkic1.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Là Tất Cả Hoặc Không Là Gì Cả",
+      "artist": "Cao Thái Sơn",
+      "categoryID": 4,
+      "duration": "05:56",
+      "currentTime": "14:40:41 26/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954494/song2_mjy86u.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954966/tat-ca-hoac-khong-la-gi-ca-cao-thai-son_lrrb8r.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Cưới Thôi Em",
+      "artist": "Thái Học",
+      "categoryID": 4,
+      "duration": "05:03",
+      "currentTime": "07:02:36 27/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954495/song9_adql8i.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954588/nea25dvhxn_l8uoal.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Hoa Cỏ Lau Remix",
+      "categoryID": 5,
+      "duration": "03:57",
+      "currentTime": "17:46:22 24/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954495/song6_datwm5.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954583/HoaCoLauOfficialRemix-PhongMax-9751455_nebpam.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Rượu Mừng Hóa Người Dưng",
+      "artist": "TLong",
+      "categoryID": 5,
+      "duration": "04:22",
+      "currentTime": "17:46:22 24/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954496/song8_akhssl.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954590/RuouMungHoaNguoiDung-TLong-9499024_t3nbub.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Cạn Tình Như Thế",
+      "artist": "DICKSON & Thành Đạt",
+      "categoryID": 5,
+      "duration": "04:56",
+      "currentTime": "07:43:57 27/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954495/song10_kiissr.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954588/CanTinhNhuThe-DICKSONVietNamThanhDatLeChiTrung-10977857_jtu6gy.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Trả Cho Em",
+      "artist": "Khánh Cường",
+      "categoryID": 5,
+      "duration": "05:00",
+      "currentTime": "18:16:06 24/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954496/song7_j07dfa.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954595/TraChoEm-KhanhCuong-11414268_jrlwnt.mp3"
+    },
+    {
+      "id": 14,
+      "title": "Cơm Đoàn Viên",
+      "artist": "Thành Đạt",
+      "categoryID": 5,
+      "duration": "04:42",
+      "currentTime": "14:39:41 26/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954495/song3_iv9rnr.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954593/ComDoanVien-ThanhDat-8504795_oe7wy1.mp3"
+    },
+    {
+      "id": 15,
+      "title": "Anh Đâu Muốn Thấy Em Buồn",
+      "artist": "Châu Khải Phong",
+      "categoryID": 5,
+      "duration": "04:59",
+      "currentTime": "14:29:28 26/11/2023",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699954495/song5_zmyvyv.png",
+      "url": "https://res.cloudinary.com/dpxgh1qfh/video/upload/v1699954596/AnhDauMuonThayEmBuon-ChauKhaiPhongACV-11201694_lx8m3l.mp3"
+    }
+  ],
+  "categories": [
+    {
+      "categoryID": 0,
+      "category": "Trữ tình",
+      "img": "https://res.cloudinary.com/dahmqix8w/image/upload/v1700467395/TruTinh_irmmnl.jpg"
+    },
+    {
+      "categoryID": 1,
+      "category": "Ballad",
+      "img": "https://res.cloudinary.com/dahmqix8w/image/upload/v1700467393/Ballad_ktegxn.jpg"
+    },
+    {
+      "categoryID": 2,
+      "category": "Remix",
+      "img": "https://res.cloudinary.com/dahmqix8w/image/upload/v1700467393/Remix_jrgqoe.jpg"
+    },
+    {
+      "categoryID": 3,
+      "category": "Nhạc cổ điển",
+      "img": "https://res.cloudinary.com/dahmqix8w/image/upload/v1700467393/CoDien_ily9er.jpg"
+    },
+    {
+      "categoryID": 4,
+      "category": "Nhạc không lời",
+      "img": "https://res.cloudinary.com/dahmqix8w/image/upload/v1700467393/NhacKhongLoi_jbx5cv.jpg"
+    },
+    {
+      "categoryID": 5,
+      "category": "Nhạc phim",
+      "img": "https://res.cloudinary.com/dahmqix8w/image/upload/v1700467393/NhacPhim_ina8b5.jpg"
+    }
+  ]
+}
